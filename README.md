@@ -11,7 +11,7 @@ Online Shoping Portal is a micro service based application which will be having 
 6. Eureka Server
 7. API Gateway
 
-Thchnologis :
+Technologis :
   1. Java
   2. Spring Boot
   3. MySQL/MongoDB/PostgressDB
@@ -19,12 +19,12 @@ Thchnologis :
 
 Online Shoping protal will be used by different users to buy or search different types of product.
 User can register himself first and he has access to view the product,add the product to cart,place an order to cart.
-Provider can register himself with role Provider as well User he can add his products and related details.Provider can act as User as well.
+Provider can register himself with role Provider as well as User, He can add his products and related details.Provider can act as User as well.
 
 
 Will try to do : 
-User will get notification via Email/text releted to his order.
-Payment gateway
+  1.User will get notification via Email/text releted to his order.
+  2.Payment gateway
 
 **Note**
 
